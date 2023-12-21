@@ -1451,13 +1451,15 @@ nav {
         flex-basis: 100%;
     }
 }
-@media (max-width: 991px) {
+@media (max-width: 1199px) {
     .dots-1 {
         right: 2%;
     }
     .dots-2 {
         left: 2%;
     }
+}
+@media (max-width: 767px) {
     .counter {
         width: 100%;
     }
@@ -1636,7 +1638,7 @@ nav {
         bottom: 0;
     }
 }
-@media (max-width: 991px) {
+@media (max-width: 1199px) {
     .dots-3, 
     .dots-4 {
         display: none;
