@@ -1313,6 +1313,7 @@ nav {
 .events {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
+    overflow: hidden;
 
 }
 .events .container {    
@@ -1483,6 +1484,7 @@ nav {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     background-color: var(--section--background-color);
+    overflow: hidden;
     
 }
 .plans .container {    
